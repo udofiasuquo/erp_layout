@@ -60,9 +60,9 @@
 
 @media (max-width: 600px) {
     .wrapper {
-       
-        
-        margin: 100px 25px;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 30px; 
+          
 }
 
 }
