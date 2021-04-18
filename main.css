@@ -55,11 +55,11 @@
 .box{
     padding: 50px;
 }
-
+/* 
 @media only screen and (min-width: 400px) {
     .wrapper {
-        width: 100%;
+        width: 80%;
         /* margin: 100px 30px; */
 }
 
-}
+} */
