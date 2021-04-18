@@ -58,8 +58,8 @@
 
 @media only screen and (max-width: 600px) {
     .wrapper {
-        width: 50%;
-        margin: 100px 30px;
+        width: 90%;
+        /* margin: 100px 30px; */
 }
 
 }
