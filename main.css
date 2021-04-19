@@ -70,7 +70,7 @@
     .wrapper {
         
         grid-template-columns: repeat(2, 1fr);
-        margin: 150px 55px 0;
+        margin: 90px 65px 60px;
         /* width: 100%; */
     }
 
